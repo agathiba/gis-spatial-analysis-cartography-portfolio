@@ -12,6 +12,11 @@ A comprehensive portfolio of spatial modeling, geodemographic cartography, and s
 * **Spatial Drivers:** Evaluated distance-decay impacts of coastal proximity, hydrographic barriers, and public infrastructure accessibility.
 * 📄 **[Technical Note (PDF - Greek)](./Exercise_1_1_Spatial_Density_KDE.pdf)**
 
+<p align="center">
+  <img src="images/kde_property_values.png" width="600" alt="Kernel density of residential property values, Palaio Faliro (Athens)">
+  <br><em>Kernel density of residential property values, Palaio Faliro (Athens)</em>
+</p>
+
 ---
 
 ### 2. Geodemographic Analysis & Thematic Cartography (QGIS)
@@ -22,6 +27,11 @@ A comprehensive portfolio of spatial modeling, geodemographic cartography, and s
   * Statistical classification via **Natural Breaks (Jenks)** based on distribution histograms.
   * Professional print layout production at 1:4,000,000 scale featuring thematic legends, scale bars, north arrows, and spatial insets.
 * 📄 **[Technical Report (PDF - Greek)](./Exercise_1_2_Socioeconomic_Thematic_Cartography.pdf)**
+
+<p align="center">
+  <img src="images/thematic_maps_greece.png" alt="Thematic maps of economic activity across Greek prefectures (QGIS)">
+  <br><em>Thematic maps of economic activity across Greek prefectures (QGIS)</em>
+</p>
 
 ---
 
@@ -36,6 +46,16 @@ A comprehensive portfolio of spatial modeling, geodemographic cartography, and s
   * Integrated multi-layer vector overlay operations (Erase, Union, Intersect) to isolate compliant land parcels meeting regulatory and environmental constraints.
 * 📄 **[Final Cartographic Deliverable (PDF)](./Exercise_2_Landfill_Suitability_Arcadia_Map.pdf)**
 * 📄 **[Automated ModelBuilder Architecture (PDF)](./Exercise_2_MCDA_ModelBuilder_Workflow.pdf)**
+
+<p align="center">
+  <img src="images/landfill_suitability_arcadia.png" alt="Final map: suitable landfill sites in the Regional Unit of Arcadia">
+  <br><em>Final map: suitable landfill sites in the Regional Unit of Arcadia</em>
+</p>
+
+<p align="center">
+  <img src="images/modelbuilder_workflow.png" alt="Automated suitability model in ArcGIS ModelBuilder">
+  <br><em>Automated suitability model in ArcGIS ModelBuilder</em>
+</p>
 
 ---
 
